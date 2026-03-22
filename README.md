@@ -192,14 +192,6 @@ This is a single self-contained HTML file. No build process, no server, no depen
 
 ---
 
-## Contributing
-
-Contributions are welcome — corrections, extensions to other sectors, improved clinical accuracy, additional agent models, or translations.
-
-If you identify clinical inaccuracies (particularly around AN-ACC classifications, medication protocols, or ACQS compliance), please open an issue. The goal is for the hypothetical model to be as realistic as possible within its illustrative purpose.
-
----
-
 ## Credits
 
 Built as a hypothetical thought experiment using Claude (Anthropic) to explore agentic AI modelling in a real-world care context. Designed to invoke deep thinking in both technical and non-technical audiences about how humans and AI agents can work together — not as a replacement model, but as a collaboration model.
